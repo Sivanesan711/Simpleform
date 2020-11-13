@@ -40,7 +40,7 @@
 								<span id="dob_error" class="text-danger"></span>
 							</div>
 							<div class="form-group">
-						       <div class="g-recaptcha" data-sitekey="6LfVZOIZAAAAAC1l9vRvyTWr0pbB5zP438vYs2wO"></div>
+						       <div class="g-recaptcha" data-sitekey="6LfVZOIZAAAAAAT7tKHtzXWoALO25wmrrS9s7pvT"></div>
 						       <span id="captcha_error" class="text-success"></span>
 						    </div>
 							<div class="form-group">

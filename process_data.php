@@ -59,7 +59,7 @@ if(isset($_POST["name"]))
  }
  else
  {
-  $secret_key = '6LfVZOIZAAAAAC1l9vRvyTWr0pbB5zP438vYs2wO';
+  $secret_key = '6LfVZOIZAAAAAAT7tKHtzXWoALO25wmrrS9s7pvT';
 
   $response = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret_key.'&response='.$_POST['g-recaptcha-response']);
 
