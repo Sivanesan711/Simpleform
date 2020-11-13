@@ -12,7 +12,6 @@
 	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <body>
-	<?php require_once 'process.php'; ?>
 	<div class="main">
 		<div class="main-overlay">
 			<div class="main-container">
